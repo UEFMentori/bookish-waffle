@@ -11,3 +11,6 @@ class Ostoskori:
         if self.summa >= 50 and self.koodi == "ALE10":
             return self.summa * 0.9
         return self.summa
+
+
+#python kommentti
